@@ -28,7 +28,7 @@ Installation
 1. Clone the repository to your local machine:
 
 git clone
-https://github.com/your-username/wine-quality-prediction.git
+https://github.com/Ghanishtha09/wine-quality-prediction.git
 
 2. Navigate to the project directory:
 
